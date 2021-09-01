@@ -193,7 +193,7 @@ String processor(const String& var) {
        if (var == "PH_Controller")
     return String("Display Controller");
   else if (var == "PH_Version")
-    return String("v1.9");
+    return String("v1.2");
   else if (var == "PH_IP_Addr")
     return local_IP_STA.toString();
   else if (var == "PH_SSID")
