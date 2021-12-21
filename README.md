@@ -7,3 +7,7 @@ At the smallest dimensions, 32x16 cm (64x32 pixels), the display can show three 
 It is usually set to display 2 characters/numbers and an arrow. The position and the orientation of the arrow can be changed from displayer's own web interface. The arrow indicate the direction where free parking spots are available.
 
 It has WiFi networking communication to access Metrici database and retrieve the information.
+
+## Home Page
+
+![Home Page](https://github.com/GeorgeFlorian/Small_Display-ESP32/blob/main/unminified%20data/1%20-%20Home%20Page.png?raw=true)
